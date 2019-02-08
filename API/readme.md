@@ -1,4 +1,4 @@
-# Playwings Main List API
+# Playwings API
 
 ![Screenshot](playwings_main.jpeg)
 ![Screenshot](deal_detail_1.jpeg)
